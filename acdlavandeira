@@ -1,0 +1,32 @@
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camisolas de Futebol</title>
+    <style>
+        .camisola {
+            width: 200px;
+            margin: 10px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    </style>
+</head>
+<body>
+    <h1>Camisolas de Futebol</h1>
+    <div class="container">
+        <div>
+            <img src="https://imgur.com/2JfvOrq" alt="Camisola 1" class="camisola">
+            <a href="https://wa.me/916426125?text=Tenho interesse na Camisola 1">Contatar sobre esta Camisola</a>
+        </div>
+        <div>
+            <img src="https://imgur.com/BUw3sQB" alt="Camisola 2" class="camisola">
+            <a href="https://wa.me/916426125?text=Tenho interesse na Camisola 2">Contatar sobre esta Camisola</a>
+        </div>
+        <!-- Adicione mais camisolas aqui -->
+    </div>
+</body>
+</html>
