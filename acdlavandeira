@@ -20,13 +20,10 @@
     <h1>Camisolas de Futebol</h1>
     <div class="container">
         <div>
-            <img src="https://i.imgur.com/2JfvOrq.jpg" alt="Camisola 1" class="camisola">
+            <img src="https://i.postimg.cc/tTdcn80s/1-1.jpg" alt="Camisola 1" class="camisola">
             <a href="https://wa.me/916426125?text=Tenho interesse na Camisola 1">Contatar sobre esta Camisola</a>
         </div>
-        <div>
-            <img src="https://i.imgur.com/BUw3sQB.jpg" alt="Camisola 2" class="camisola">
-            <a href="https://wa.me/916426125?text=Tenho interesse na Camisola 2">Contatar sobre esta Camisola</a>
-        </div>
+        <!-- Adicione mais camisolas aqui, substituindo as URLs das imagens -->
     </div>
 </body>
 </html>
